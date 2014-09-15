@@ -1,2 +1,0 @@
-edutory.github.io
-=================
