@@ -1,4 +1,9 @@
 {% include header.html %}
 {% include nav.html %}
+	<ol class="breadcrumb">
+	  <li><a href="{{ site.url }}">Home</a></li>
+	  <li><a href="{{ site.url }}/learn">Learn</a></li>
+	  <li class="active">{{ page.name }}</li>
+	</ol>
 	{{ content }}
 {% include footer.html %}
