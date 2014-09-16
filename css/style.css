@@ -9,3 +9,8 @@
 .spacer {
 	margin-top: 40px;
 }
+
+.subj-img {
+	position: relative;
+	width: 100%;
+}
