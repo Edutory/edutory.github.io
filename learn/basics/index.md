@@ -1,6 +1,6 @@
 ---
 layout: subject
-name: Basics
+title: Basics
 sname: basics
 ---
 
