@@ -1,6 +1,5 @@
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed btn btn-default" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span>
@@ -9,15 +8,23 @@
       <a class="navbar-brand" href="{{ site.url }}/">Edutory</a>
     </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><a href="{{ site.url }}/">Home</a></li>
         <li><a href="{{ site.url }}/about.html">About</a></li>
         <li><a href="{{ site.url }}/learn.html">Learn</a></li>
-          
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Basics</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Maths</a></li>
+            <li><a href="#">Physics</a></li>
+            <li><a href="#">Chemistry</a></li>
+          </ul>
+        </li>
         <li><a href="{{ site.url }}/contribute.html">Contribute</a></li>
       </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
+    </div>
+  </div>
 </nav>
