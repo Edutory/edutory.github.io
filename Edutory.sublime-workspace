@@ -8,68 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 90,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 175,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n",
-			"settings":
-			{
-				"buffer_size": 1692,
-				"line_ending": "Windows",
-				"name": "Package Control Messages",
-				"scratch": true
-			}
-		},
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 14,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 828,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 326,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 115,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/nav.html",
-			"settings":
-			{
-				"buffer_size": 1029,
+				"buffer_size": 1133,
 				"line_ending": "Windows"
 			}
 		},
@@ -77,16 +19,72 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 123,
+				"buffer_size": 293,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/srilekha2003/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"file": "_layouts/subject.html",
 			"settings":
 			{
-				"buffer_size": 162,
+				"buffer_size": 339,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Erik Royall/sandbox.mml",
+			"settings":
+			{
+				"buffer_size": 836,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/nav.html",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "learn/index.html",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/topic.html",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/course.html",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "learn/basics/index.md",
+			"settings":
+			{
+				"buffer_size": 4994,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -122,14 +120,23 @@
 	},
 	"file_history":
 	[
+		"/C/Erik Royall/Git/edutory.github.io/_layouts/default.html",
+		"/C/Erik Royall/Git/edutory.github.io/index.html",
+		"/C/Erik Royall/Git/edutory.github.io/.gitignore",
+		"/C/Erik Royall/Git/edutory.github.io/_includes/header.html",
+		"/C/Erik Royall/Git/edutory.github.io/_includes/footer.html",
+		"/C/Erik Royall/Git/edutory.github.io/_config.yml",
+		"/C/Erik Royall/Git/edutory.github.io/_includes/nav.html",
+		"/C/Erik Royall/Git/edutory.github.io/css/style.css",
+		"/C/Users/srilekha2003/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Erik Royall/Git/edutory.github.io/icons/chemistry.svg",
+		"/C/Erik Royall/Git/edutory.github.io/icons/maths.svg",
+		"/C/Erik Royall/Git/edutory.github.io/icons/physics.svg",
 		"/C/Erik Royall/Git/edutory.github.io/css/bootstrap.min.css",
 		"/C/Erik Royall/Git/edutory.github.io/_posts/2014-09-16-welcome-to-jekyll.markdown",
-		"/C/Erik Royall/Git/edutory.github.io/index.html",
 		"/C/Erik Royall/Git/edutory.github.io/package.json",
 		"/C/Erik Royall/Git/edutory.github.io/bower.json",
 		"/C/Erik Royall/Git/edutory.github.io/Gruntfile.js",
-		"/C/Erik Royall/Git/edutory.github.io/.gitignore",
-		"/C/Users/srilekha2003/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Erik Royall/html.html"
 	],
 	"find":
@@ -148,6 +155,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sm",
+			"chart",
+			"object data",
+			"subj",
+			"camera-icon",
 			"border-radius:4px",
 			"border-radius",
 			"relative",
@@ -178,200 +190,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_layouts/default.html",
-					"settings":
-					{
-						"buffer_size": 90,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								90,
-								90
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 175,
+						"buffer_size": 1133,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								158,
-								158
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"settings":
-					{
-						"buffer_size": 1692,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1692,
-								1692
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": ".gitignore",
-					"settings":
-					{
-						"buffer_size": 14,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14,
-								14
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_includes/header.html",
-					"settings":
-					{
-						"buffer_size": 828,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								828,
-								828
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_includes/footer.html",
-					"settings":
-					{
-						"buffer_size": 326,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								326,
-								326
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_config.yml",
-					"settings":
-					{
-						"buffer_size": 115,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								115,
-								115
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "_includes/nav.html",
-					"settings":
-					{
-						"buffer_size": 1029,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								950,
-								950
+								1133,
+								1133
 							]
 						],
 						"settings":
@@ -387,19 +217,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 1,
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 123,
+						"buffer_size": 293,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								123,
-								123
+								293,
+								293
 							]
 						],
 						"settings":
@@ -413,27 +243,213 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "/C/Users/srilekha2003/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"buffer": 2,
+					"file": "_layouts/subject.html",
 					"settings":
 					{
-						"buffer_size": 162,
+						"buffer_size": 339,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								162,
-								162
+								109,
+								109
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Erik Royall/sandbox.mml",
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								836
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_includes/nav.html",
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1255,
+								1255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "learn/index.html",
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_layouts/topic.html",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_layouts/page.html",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_layouts/course.html",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "learn/basics/index.md",
+					"settings":
+					{
+						"buffer_size": 4994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2498,
+								2498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -447,7 +463,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -501,6 +517,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 202.0,
+	"side_bar_width": 204.0,
 	"status_bar_visible": true
 }

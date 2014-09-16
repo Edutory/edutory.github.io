@@ -12,7 +12,6 @@ Sed nec lectus rutrum, aliquet felis sit amet, viverra urna. Integer sodales por
 
 MathML Check:
 
-//(
 <?xml version="1.0" encoding="UTF-8"?>
 
 <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -53,7 +52,6 @@ MathML Check:
   <annotation encoding="StarMath 5.0">x = -b +- sqrt(b^2 - 4ac) / 2a</annotation>
  </semantics>
 </math>
-//)
 
 Phasellus tempus erat et luctus luctus. Duis nec orci dui. Donec facilisis libero non iaculis imperdiet. Phasellus et turpis posuere, scelerisque nisi eu, consectetur velit. Nam placerat ullamcorper erat sed sollicitudin. Sed laoreet erat quis vestibulum tempor. Ut quis dolor bibendum, efficitur dui quis, placerat mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean ultricies vel sapien ac interdum. Ut lectus metus, varius non iaculis sit amet, posuere a nunc. Aenean metus metus, mattis non dolor sed, egestas convallis massa. Nullam sed facilisis felis, eget molestie orci. Ut sollicitudin libero at ligula efficitur, ac volutpat ligula tempor. Ut fringilla nisi eu dolor egestas viverra. Praesent fringilla, lorem a accumsan gravida, ipsum nunc pretium risus, nec gravida tortor magna in ex. Donec a erat et nulla feugiat feugiat.
 
