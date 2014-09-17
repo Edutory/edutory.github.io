@@ -4,3 +4,4 @@ _site\*
 *.sublime-project
 Edutory.sublime-workspace
 Edutory.sublime-project
+*.sublime-workspace
