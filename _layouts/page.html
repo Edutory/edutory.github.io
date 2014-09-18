@@ -1,4 +1,11 @@
-{% include header.html %}
-{% include nav.html %}
+<div class="container spacer">
+	<h1>{{ page.title }}</h1>
+	<ol class="breadcrumb">
+	  <li><a href="{{ site.url }}">Home</a></li>
+    <li><a href="{{ site.url }}/learn">Learn</a></li>
+    <li><a href="{{ site.url }}/{{ page.subject_sname }}">{{ page.subject }}</a></li>
+    <li><a href="{{ site.url }}/{{ page.topic_sname }}">{{ page.topic }}</a></li>
+	  <li class="active">{{ page.title }}</li>
+	</ol>
 	{{ content }}
-{% include footer.html %}
+</div>
